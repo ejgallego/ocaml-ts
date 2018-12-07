@@ -1,0 +1,8 @@
+(executable
+ (public_name ts)
+ (libraries ocaml-compiler-libs.common))
+
+; (library
+;  (name ts)
+;  (public_name ts)
+;  (libraries ocaml-compiler-libs.common ocaml-compiler-libs.bytecomp))
